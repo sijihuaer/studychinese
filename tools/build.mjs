@@ -228,7 +228,7 @@ ${body}
 
 <footer>
   <p>本页是《语文高效学习法》（申怡 著）的读书笔记，仅作个人学习交流 · 请勿商用</p>
-  <p><a href="./语文高效学习法_全本.md">查看全书 Markdown 原文</a></p>
+  <p><a href="https://github.com/sijihuaer/studychinese/blob/main/语文高效学习法_全本.md">📖 查看全书 Markdown 原文（GitHub）</a> · <a href="https://github.com/sijihuaer/studychinese">仓库主页</a></p>
 </footer>
 
 <button class="toTop" id="toTop" title="回到顶部" aria-label="回到顶部">↑</button>
